@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="grid">grid</string>
+    <string name="t1">0\'s turn to play..</string>
+    <string name="t2">X\'s turn to play..</string>
+    <string name="w1">0 wins</string>
+    <string name="w2">X wins</string>
+    <string name="blank" />
+    <string name="statusbar">status</string>
+    <string name="reset">Reset</string>
+    <string name="abc">Let\'s Play</string>
+</resources>
